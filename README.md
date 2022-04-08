@@ -6,7 +6,7 @@ The author of this EFI is [@sileshn](https://github.com/sileshn). Thank you very
 
 | Name     | Version |
 | -------- |:-------:|
-| OpenCore | 0.?.?   |
+| OpenCore | 0.7.7   |
 
 ## Hardware
 
